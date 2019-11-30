@@ -17,7 +17,7 @@
           ['Applied', 'Phone Interview', 2],
           ['Phone Interview', 'Rejected', 3],
           ['Applied', 'Rejected', 10],
-          ['Applied', 'On-campus Interview', 2],
+          ['Applied', 'On-campus Interview', 1],
           ['On-campus Interview', 'Onsite', 1],
           ['Onsite' , 'Accepted!', 1],
           ['Applied', 'Coding Challenge', 9],
@@ -25,14 +25,30 @@
           ['Coding Challenge', 'Chat w/ recruiter', 1],
           ['Chat w/ recruiter', 'Phone Interview', 2],
           ['Coding Challenge', 'Ghosted', 4],
-          ['On-campus Interview', 'Rejected', 1],
+          ['Applied', 'Onsite', 1],
+          ['Onsite' , 'Rejected', 1],
           ['Applied', 'Chat w/ recruiter', 1],
           ['Phone Interview', 'Ongoing', 1]
         ]);
 
+
+        var colors = ['#cab2d6', '#ffff99', '#1f78b4', '#33a02c',
+                      '#a6cee3', '#b2df8a', '#fb9a99', '#fdbf6f'
+                      ];
+
         // Sets chart options.
         var options = {
-          width: 600,
+          width: 500,
+          sankey: { 
+            node: { 
+              nodePadding: 40,
+              colors: colors
+            },
+            link: {
+              colorMode: 'gradient',
+              colors: colors
+            }
+          },
         };
 
         // Instantiates and draws our chart, passing in some options.
