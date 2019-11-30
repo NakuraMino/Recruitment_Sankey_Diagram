@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 This repository contains an overview of how my internship search for Summer 2020 went. I made the Sankey Diagram using [Google's visualization tool](https://developers.google.com/chart/interactive/docs/gallery/sankey)
 
@@ -19,4 +19,8 @@ I downloaded the Google Sheet I was using as a .csv file and wrote a Python scri
 8. Ghosted: 96
 9. Rejected: 18
 10. Ongoing: 1
+
+## One Last Note
+
+I definitely got more than 18 rejection letters, but I got tired of updating my Google Sheets every time I saw a new one in my inbox. For those of you out there still recruiting, don't give up hope!
  
