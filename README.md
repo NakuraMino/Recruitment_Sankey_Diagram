@@ -9,10 +9,6 @@ I downloaded the Google Sheet I was using as a .csv file and wrote a Python scri
 
 ## By the Numbers
 
-I currently have an offer on the table, but I'm still actively exploring my options! As you can see, I'm still in an interview process with another company (a really cool one!!) right now, and I'm looking for an offseason/non-summer internship!
-
-However, I'm really happy with the company that has offered me an internship, so I'm really looking forward to next summmer!
-
 1. applied_total: 116
 2. coding challenges: 9
 3. Talks with Recruiter2
