@@ -13,8 +13,8 @@ I downloaded the Google Sheet I was using as a .csv file and wrote a Python scri
 2. coding challenges: 9
 3. Talks with Recruiter2
 4. Phone Interviews: 4
-5. On-Campus Interviews: 2
-6. Onsite Interviews: 1
+5. On-Campus Interviews: 1
+6. Onsite Interviews: 2
 7. Accepted: 1
 8. Ghosted: 96
 9. Rejected: 18
