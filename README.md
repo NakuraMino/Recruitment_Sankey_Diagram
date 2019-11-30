@@ -15,7 +15,7 @@ I downloaded the Google Sheet I was using as a .csv file and wrote a Python scri
 4. Phone Interviews: 4
 5. On-Campus Interviews: 1
 6. Onsite Interviews: 2
-7. Accepted: 1
+7. Offer: 1
 8. Ghosted: 96
 9. Rejected: 18
 10. Ongoing: 1
