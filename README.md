@@ -13,14 +13,14 @@ I currently have an offer on the table, but I'm still actively exploring my opti
 
 However, I'm really happy with the company that has offered me an internship, so I'm really looking forward to next summmer!
 
-applied_total: 116
-coding challenges: 9
-Talks with Recruiter2
-Phone Interviews: 4
-On-Campus Interviews: 2
-Onsite Interviews: 1
-Accepted: 1
-Ghosted: 96
-Rejected: 18
-Ongoing: 1
+1. applied_total: 116
+2. coding challenges: 9
+3. Talks with Recruiter2
+4. Phone Interviews: 4
+5. On-Campus Interviews: 2
+6. Onsite Interviews: 1
+7. Accepted: 1
+8. Ghosted: 96
+9. Rejected: 18
+10. Ongoing: 1
  
