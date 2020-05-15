@@ -1,5 +1,7 @@
 ## Overview
 
+![alt text](https://github.com/NakuraMino/Recruitment_Sankey_Diagram/blob/master/Sankey%20Diagram.JPG "sankey diagram")
+
 This repository contains an overview of how my internship search for Summer 2020 went. I made the Sankey Diagram using [Google's visualization tool](https://developers.google.com/chart/interactive/docs/gallery/sankey)
 
 ## What I did 
