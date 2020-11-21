@@ -2,6 +2,8 @@
 
 This repository contains an overview of how my internship search for Summer 2020 went. I made the Sankey Diagram using [Google's visualization tool](https://developers.google.com/chart/interactive/docs/gallery/sankey)
 
+![alt text](https://github.com/NakuraMino/Recruitment_Sankey_Diagram/blob/master/Sankey%20Diagram.JPG "sankey diagram")
+
 ## What I did 
 Since the start of the recruitment season, I've been keeping track of  all the companies I applied to, along with some key facts (applied date, interview dates, coding challenge, etc). I saw a few people making Sankey Diagrams of their results, so I thought I would do the same. 
 
