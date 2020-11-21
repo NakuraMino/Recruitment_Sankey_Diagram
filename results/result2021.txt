@@ -1,0 +1,25 @@
+['Applied', 'Ghosted', 31],
+['Applied', 'Coding Challenge', 7],
+['Coding Challenge', 'First Round', 2],
+['First Round', 'Second Round', 3],
+['Second Round', 'Rejected', 2],
+['Applied', 'Rejected', 10],
+['Coding Challenge', 'Rejected', 4],
+['First Round', 'Accepted!', 1],
+['Coding Challenge', 'Ghosted', 1],
+['Applied', 'First Round', 4],
+['Second Round', 'Third Round', 1],
+['Third Round' , 'Rejected', 1],
+['First Round', 'Rejected', 1],
+['First Round', 'Ongoing', 1],
+
+applied_total: 52
+coding challenges: 7
+Talks with Recruiter: 0
+First Rounds: 6
+Second Rounds: 3
+Third Rounds: 1
+Accepted: 1
+Ghosted: 32
+Rejected: 18
+Ongoing: 1

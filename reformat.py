@@ -9,7 +9,7 @@ import csv
 # [onsite]
 #
 
-with open("applications.csv", mode="r") as csv_file:
+with open("data/applications2021.csv", mode="r") as csv_file:
     csv_reader = csv.DictReader(csv_file)
 
     applied_total = 0
@@ -143,7 +143,7 @@ with open("applications.csv", mode="r") as csv_file:
 
     print("applied_total: " + str(applied_total))
     print("coding challenges: " + str(cc_total))
-    print("Talks with Recruiter" + str(recruiter_total))
+    print("Talks with Recruiter: " + str(recruiter_total))
     print("Phone Interviews: " + str(phone_total))
     print("On-Campus Interviews: " + str(on_total))
     print("Onsite Interviews: " + str(onsite_total))
