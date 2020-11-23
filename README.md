@@ -12,7 +12,7 @@ I keep track of my applications and how I do in a google sheet. I parse the .csv
 
 I'm honestly super confused why more repositories don't show sample outputs of what their repo can do. It's super helpful and I would love to see more. But anyways, here's what my 2020 recruitment sankey diagram looks like.
 
-![alt text](./sankey2020.jpg "sankey diagram")
+![alt text](./sankey2020.JPG "sankey diagram")
 
 ## Creating Your Own Sankey Diagram
 
