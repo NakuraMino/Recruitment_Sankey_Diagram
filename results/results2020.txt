@@ -14,14 +14,3 @@
 ['Onsite' , 'Rejected', 1],
 ['Applied', 'Chat w/ recruiter', 1],
 ['Phone Interview', 'Ongoing', 1]
-
-applied_total: 116
-coding challenges: 9
-Talks with Recruiter2
-Phone Interviews: 4
-On-Campus Interviews: 1
-Onsite Interviews: 2
-Accepted: 1
-Ghosted: 96
-Rejected: 18
-Ongoing: 1

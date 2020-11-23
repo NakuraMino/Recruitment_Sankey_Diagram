@@ -12,14 +12,3 @@
 ['Third Round' , 'Rejected', 1],
 ['First Round', 'Rejected', 1],
 ['First Round', 'Ongoing', 1],
-
-applied_total: 52
-coding challenges: 7
-Talks with Recruiter: 0
-First Rounds: 6
-Second Rounds: 3
-Third Rounds: 1
-Accepted: 1
-Ghosted: 32
-Rejected: 18
-Ongoing: 1

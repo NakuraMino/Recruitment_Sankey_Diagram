@@ -138,6 +138,7 @@ with open("data/applications2021.csv", mode="r") as csv_file:
 
     print()
 
+
     print("applied_total: " + str(applied_total))
     print("coding challenges: " + str(cc_total))
     print("Talks with Recruiter: " + str(recruiter_total))
