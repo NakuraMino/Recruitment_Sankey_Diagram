@@ -16,7 +16,7 @@ I'm honestly super confused why more repositories don't show sample outputs of w
 
 ## Creating Your Own Sankey Diagram
 
-I'm not a Frontend person, and this project should make that veerrrry clear to you. In fact, if you're looking at this, I'm pretty sure it's a good warning sign for you to not hire me for frontend work. Regardless, this was originally meant to be a one-day project, but I came back to it because the code was annoying and my 2021 results didn't fit nicely. So I added a few things. But I'm probably not going to make this any better than it is now, so if you want to do your own stuff, feel free to take this code and modify it as you see fit. Otherwise, feel free to judge because most of this is crappy code. I know.
+I'm not a Frontend person, and this project should make that veerrrry clear to you. In fact, if you're looking at this, I'm pretty sure it's a good warning sign for you to not hire me for frontend work. Regardless, this was originally meant to be a one-day project, but I came back to it because the code was annoying and my 2021 results didn't fit nicely. So I added a few things. But I'm probably not going to make this any better than it is now. If you want to do your own stuff, feel free to take this code and modify it as you see fit. Otherwise, feel free to judge because most of this is crappy code. I know.
 
 If you're like me and want to do the bare minimum possible, then, to add your own Sankey Diagram: 
 1. Replace the string in `parser.parseCSV` to a file path with your data in it
