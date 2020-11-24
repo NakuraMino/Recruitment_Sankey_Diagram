@@ -25,11 +25,9 @@ If you're like me and want to do the bare minimum possible, then, to add your ow
 4. Go to sankey.html and add a new button with the correct variable name. It should look like this:
 
 ```
-<pre>
 <div class="col sm d-flex m-1">
     <button type="button" class="btn btn-lg btn-outline-primary" onclick="loadChart(THE NAME FROM STEP 2)"> YEAR </button>
 </div>
-</pre>
 ```
 5. Be proud of your recruitment efforts :) 
 
