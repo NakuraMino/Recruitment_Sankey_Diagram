@@ -98,8 +98,8 @@ class CSVParser:
 
     def addAggregatesToResultsJS(self, resultName):
         with open("results.js", "a") as writer:
-            writer.write("\n")
-            writer.write(resultName + " = [")
+            writer.write("\n\n")
+            writer.write(resultName + " = [\n")
             for key in self.aggregates:
-                writer.write(key + ", " + str(self.aggregates[key]) + "],\n")
-            writer.write("]")
+                writer.write("\t\t\t\t" + key + ", " + str(self.aggregates[key]) + "],\n")
+            writer.write("\t\t\t\t];")
