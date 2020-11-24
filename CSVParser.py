@@ -95,3 +95,11 @@ class CSVParser:
         with open(outFilePath, "w") as writer:
             for key in self.aggregates:
                 writer.write(key + ", " + str(self.aggregates[key]) + "],\n")
+
+    def addAggregatesToResultsJS(self, resultName):
+        with open("results.js", "a") as writer:
+            writer.write("\n")
+            writer.write(resultName + " = [")
+            for key in self.aggregates:
+                writer.write(key + ", " + str(self.aggregates[key]) + "],\n")
+            writer.write("]")
